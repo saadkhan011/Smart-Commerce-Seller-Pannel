@@ -1,1 +1,1 @@
-# meat-supplier-panel
+# SmartCommerce-supplier-panel
